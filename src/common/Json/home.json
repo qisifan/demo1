@@ -1,0 +1,43 @@
+{
+  "array|1-2": [
+  	{
+  	"bannerImg|2": [
+	   "../../images/homePage/jx-1.png",
+	   "../../images/homePage/jx-2.png",
+	   "../../images/homePage/jx-3.png",
+	   "../../images/homePage/jx-4.png"
+	  ]
+	},
+	{
+	"bannerText|+1": [
+		"@cparagraph(3)"
+	  ]
+	},
+	{
+  	"msgData|1-3": [
+	   "../../images/homePage/cp-6.png",
+	   "../../images/homePage/njh-6.png",
+	   "@cparagraph(1)"
+	  ]
+	},
+	{
+  	"detailData|1-2": [
+	   "../../images/homePage/jx-1.png",
+	   "../../images/homePage/jx-2.png",
+	   "@cparagraph(1)",
+	   "@cparagraph(5)",
+	   "@integer(1, 99999)",
+	   "@integer(1, 99999)"
+	  ]
+	},
+	{
+  	"videosData|1-2": [
+	   "../../images/homePage/jx-1.png",
+	   "../../images/homePage/jx-2.png",
+	   "../../images/homePage/jx-3.png",
+	   "../../images/homePage/jx-4.png",
+	   "@cparagraph(3)"
+	  ]
+	}
+  ]
+}

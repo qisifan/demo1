@@ -1,0 +1,27 @@
+{
+  "array|1-2": [
+  	{
+  	"portraitImg|2": [
+	   "../../images/zhib/head-6.png",
+	   "@ctitle(10)",
+	   "@cname",
+	   "@cparagraph(5)"
+	  ]
+	},
+	{
+  	"zbmsgImg|3": [
+	   "../../images/zhib/cat-6.png",
+	   "../../images/zhib/jbs-6.png",
+	   "@cparagraph(5)",
+	   "@integer(1, 99999)"
+	  ]
+	},
+	{
+	"zbcomment|2": [
+		"@integer(1, 99999)",
+		"../../images/homePage/kndD2-6.png",
+		"@cparagraph(5)"
+	  ]
+	}
+  ]
+}
